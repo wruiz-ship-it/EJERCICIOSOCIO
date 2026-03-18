@@ -1,4 +1,3 @@
-# EJERCICIOSOCIO
 package arreglos;
 
 public class Ejercicio1 {
@@ -1198,10 +1197,3 @@ public class EjemploArrayList5 {
         System.out.println("Promedio: " + promedio);
     }
 }
-
-
-
-
-
-
-
